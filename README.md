@@ -1,1 +1,2 @@
-# hard1
+# hard1. 
+Hello GitHub.
